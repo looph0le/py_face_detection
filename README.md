@@ -2,4 +2,4 @@
 
 A face detection application using opencv-python
 
-![alt text]()
+![alt text](./me_orignal.jpg)
