@@ -1,2 +1,3 @@
-# py_face_detection
-Face detection tool
+# py-face-detection
+
+A face detection application using python
